@@ -1,0 +1,3 @@
+# Example config file (not required, env is primary)
+email_index: email-index
+kb_index: kb-index
